@@ -34,7 +34,7 @@ body {
       display: flex;
       flex-direction: column;
       text-transform: uppercase;
-      color: white;
+      color: #fff;
       margin-bottom: 60px; }
       .header__text-box .header-primary--main {
         font-size: 60px;
